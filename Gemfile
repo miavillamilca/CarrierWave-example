@@ -25,6 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 #CarrierWave
 gem 'carrierwave'
+gem 'fog'
 
 # gema para procesar imagenes
 gem 'mini_magick'
